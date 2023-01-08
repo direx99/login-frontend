@@ -1,6 +1,7 @@
 {
-  "name": "frontend",
-  "version": "0.1.0",
+  "name": "Login-Frontend",
+  "version": "1",
+  "author": "Dinith Hasaranga Perera  | direx99",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
